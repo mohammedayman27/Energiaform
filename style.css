@@ -139,6 +139,10 @@
     margin: auto;
     padding: 6px;
 }
+.ay
+{
+    font-family:calibri; font-size: 15px;
+}
 @media screen and (max-width:1000px) and (min-width:200px)
 {
     .in
@@ -186,4 +190,12 @@
     {
         font-size: x-small;
     }
+    .ay{
+            font-size: x-small;
+        }
+        .sun
+        {
+            font-size: small;
+            padding: 5px;
+        }
 }
