@@ -66,7 +66,8 @@
 }
 .down
 {
-    width: 200px; height:20px; font-size: 10px; margin-left: 5px; 
+    width: 200px; height:20px; font-size: 10px; margin-top: 10px;
+    
 }
 .in
 {
@@ -74,7 +75,7 @@
     width: 400px;
     border-radius: 2px;
     border:#3282b8 ;
-    margin: 5px;
+    margin: 10px;
     height: 20px;
     word-spacing: 2px;
 
@@ -85,7 +86,7 @@
     width: 200px;
     border-radius: 2px;
     border:#3282b8 ;
-    margin: 5px;
+    margin-top: 10px;
     height: 20px;
     word-spacing: 2px; 
 }
@@ -140,7 +141,7 @@
 {
     .in
     {
-        width: 100px;
+        width: 300px;
 
 
     }
@@ -153,7 +154,7 @@
     }
     .area
     {
-      width: 100px;  
+      width: 300px;  
     }
     .links
     {
@@ -168,7 +169,7 @@
     .nn
     {
         width: auto;
-        flex-wrap: wrap;
+        
     }
     .down
     {
